@@ -5,6 +5,10 @@ A console-based **Smart Parking System** implemented using **procedures and arra
 
 ---
 
+![Parking System Diagram](image.png)
+
+---
+
 ## Contributors
 
 - **Al-Amin Sagor**  
@@ -80,6 +84,3 @@ A console-based **Smart Parking System** implemented using **procedures and arra
 - No use of **stack operations** or **macros**.
 - Compatible with `.asm` files (MASM/NASM/TASM).  
 - Designed for **x86 Assembly language**, but logic can be adapted for other assemblers.
-
----
-
